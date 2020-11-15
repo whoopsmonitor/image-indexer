@@ -1,0 +1,62 @@
+[
+  {
+    "type": "check",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-url-alive:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-url-alive:1.0",
+    "description": ""
+  },
+  {
+    "type": "check",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-rabbitmq-queue-count:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-rabbitmq-queue-count:1.0",
+    "description": ""
+  },
+  {
+    "type": "check",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-testcafe:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-testcafe:1.0",
+    "description": ""
+  },
+  {
+    "type": "check",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-port-open:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-port-open:1.0",
+    "description": ""
+  },
+  {
+    "type": "alert",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-webhook:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-webhook:1.0",
+    "description": ""
+  },
+  {
+    "type": "alert",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-twilio-sms:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-twilio-sms:1.0",
+    "description": ""
+  },
+  {
+    "type": "alert",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-teams:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-teams:1.0",
+    "description": ""
+  },
+  {
+    "type": "alert",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-smtp:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-smtp:1.0",
+    "description": ""
+  },
+  {
+    "type": "alert",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-discord-webhook:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-discord-webhook:1.0",
+    "description": ""
+  },
+  {
+    "type": "alert",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-slack-webhook:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-slack-webhook:1.0",
+    "description": ""
+  }
+]
