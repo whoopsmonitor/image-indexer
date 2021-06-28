@@ -31,8 +31,8 @@
   },
   {
     "type": "check",
-    "label": "ghrc.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
-    "value": "ghrc.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
     "description": ""
   },
   {
