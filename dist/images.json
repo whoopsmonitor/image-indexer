@@ -19,6 +19,12 @@
   },
   {
     "type": "check",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-json-expect:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-json-expect:1.0",
+    "description": ""
+  },
+  {
+    "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-port-open:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-port-open:1.0",
     "description": ""
