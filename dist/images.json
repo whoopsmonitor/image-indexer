@@ -36,6 +36,12 @@
     "description": ""
   },
   {
+    "type": "check",
+    "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-redis-connect:1.0",
+    "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-redis-connect:1.0",
+    "description": ""
+  },
+  {
     "type": "alert",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-webhook:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-webhook:1.0",
