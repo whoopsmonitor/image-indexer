@@ -45,7 +45,8 @@
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mariadb-connect:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mariadb-connect:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg"
   },
   {
     "type": "alert",
