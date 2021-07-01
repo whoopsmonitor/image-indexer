@@ -45,7 +45,7 @@
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-redis-connect:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-redis-connect:1.0",
     "description": "",
-    "icon": "https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redis-64.png"
+    "icon": "https://img.icons8.com/color/50/000000/redis.png"
   },
   {
     "type": "check",
