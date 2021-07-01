@@ -31,13 +31,15 @@
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-port-open:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-port-open:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://cdn3.iconfinder.com/data/icons/computer-51/100/computer_1-64.png"
   },
   {
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Antu_mongodb.svg"
   },
   {
     "type": "check",
