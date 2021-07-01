@@ -4,7 +4,7 @@
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-url-alive:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-url-alive:1.0",
     "description": "",
-    "icon": "https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/link_hyperlink-2-64.png"
+    "icon": "https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-64.png"
   },
   {
     "type": "check",
@@ -17,7 +17,8 @@
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-testcafe:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-testcafe:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://plugins.jetbrains.com/files/13133/108986/icon/pluginIcon.svg"
   },
   {
     "type": "check",
