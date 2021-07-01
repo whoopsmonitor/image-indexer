@@ -38,7 +38,8 @@
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-mongo-connect:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://img.icons8.com/color/50/000000/mongodb.png"
   },
   {
     "type": "check",
