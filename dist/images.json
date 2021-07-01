@@ -18,13 +18,14 @@
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-testcafe:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-testcafe:1.0",
     "description": "",
-    "icon": "https://plugins.jetbrains.com/files/13133/108986/icon/pluginIcon.svg"
+    "icon": "https://cdn2.iconfinder.com/data/icons/coffee-19/450/Frappe-64.png"
   },
   {
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-json-expect:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-json-expect:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://cdn0.iconfinder.com/data/icons/file-61/20/file_json-64.png"
   },
   {
     "type": "check",
