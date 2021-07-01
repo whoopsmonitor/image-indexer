@@ -66,13 +66,15 @@
     "type": "alert",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-twilio-sms:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-twilio-sms:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://www.twilio.com/docs/static/company/img/logos/red/twilio-mark-red.3b1dd25e0.svg"
   },
   {
     "type": "alert",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-teams:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-teams:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-teams.png"
   },
   {
     "type": "alert",
