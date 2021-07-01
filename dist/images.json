@@ -3,13 +3,15 @@
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-url-alive:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-url-alive:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/link_hyperlink-2-64.png"
   },
   {
     "type": "check",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-check-rabbitmq-queue-count:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-check-rabbitmq-queue-count:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://assets.zabbix.com/img/brands/rabbitmq.svg"
   },
   {
     "type": "check",
