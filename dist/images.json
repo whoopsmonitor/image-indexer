@@ -80,18 +80,21 @@
     "type": "alert",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-smtp:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-smtp:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://img.icons8.com/ios-filled/50/000000/email.png"
   },
   {
     "type": "alert",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-discord-webhook:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-discord-webhook:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://img.icons8.com/color/48/000000/discord-logo.png"
   },
   {
     "type": "alert",
     "label": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-slack-webhook:1.0",
     "value": "ghcr.io/whoopsmonitor/whoopsmonitor-alert-slack-webhook:1.0",
-    "description": ""
+    "description": "",
+    "icon": "https://img.icons8.com/color/48/000000/slack.png"
   }
 ]
